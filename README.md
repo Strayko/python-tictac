@@ -1,1 +1,1 @@
-# python-tictac
+# python-tictac-game
